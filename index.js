@@ -15,12 +15,16 @@ function confirmar() {
     if (options[9].checked) return "basic";
     if (options[10].checked) return "grande";
     if (options[11].checked) return "cartela";
-    if (options[12].checked) return "tornozeleira";
+    if (options[12].checked) return "earcuff";
+    if (options[13].checked) return "piercing";
+    if (options[14].checked) return "tornozeleira";
+    if (options[15].checked) return "conjunto";
+    if (options[16].checked) return "cabelo";
     return "";
   };
   const value = getValue();
 
-  if (value !== "colar" && value !== "longo" && value !== "curto" && value !== "mix" && value !== "argola" && value !== "tornozeleira" && value !=="pequeno" && value !== "argolinha" && value !== "basic" && value !== "anel" && value !== "pulseira" && value !== "grande" && value !== "cartela") {
+  if (value !== "colar" && value !== "longo" && value !== "curto" && value !== "mix" && value !== "argola" && value !== "tornozeleira" && value !=="pequeno" && value !== "argolinha" && value !== "basic" && value !== "anel" && value !== "pulseira" && value !== "grande" && value !== "cartela" && value!== "piercing" && value !== "earcuff" && value !== "conjunto" && value !== "cabelo") {
     alert("Você errou! Selecione por favor uma das opções.");
     result.innerHTML = ""
   }
@@ -3684,228 +3688,1116 @@ function confirmar() {
         price: "R$ 49,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
+        name: "Cartela de Brincos - CA0176 (Banho Flash)",
+        price: "R$ 73,80"
+      },
+      {
+        name: "Cartela de Brincos - CA0175 (Banho Flash)",
+        price: "R$ 73,80"
+      },
+      {
+        name: "Cartela de Brincos - CA0174 (Banho Flash)",
         price: "R$ 49,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
+        name: "Cartela de Brincos - CA0172 (Banho Flash)",
         price: "R$ 49,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
+        name: "Cartela de Brincos - CA0171 (Folheado)",
+        price: "R$ 25,80"
+      },
+      {
+        name: "Cartela de Brincos - CA0170 (Folheado)",
+        price: "R$ 25,80"
+      },
+      {
+        name: "Cartela de Brincos - CA0168 (Folheado)",
+        price: "R$ 35,00"
+      },
+      {
+        name: "Cartela de Brincos - CA0167 (Folheado)",
+        price: "R$ 35,00"
+      },
+      {
+        name: "Cartela de Brincos - CA0166 (Folheado)",
+        price: "R$ 35,00"
+      },
+      {
+        name: "Cartela de Brincos - CA0165 (Folheado)",
+        price: "R$ 35,00"
+      },
+      {
+        name: "Cartela de Brincos - CA0164 (Folheado)",
+        price: "R$ 35,00"
+      },
+      {
+        name: "Cartela de Brincos - CA0145 (Folheado)",
+        price: "R$ 35,00"
+      },
+      {
+        name: "Cartela de Brincos - CA0144 (Folheado)",
+        price: "R$ 35,00"
+      },
+      {
+        name: "Cartela de Brincos - CA0143 (Folheado)",
+        price: "R$ 35,00"
+      },
+      {
+        name: "Cartela de Brincos - CA0142 (Folheado)",
+        price: "R$ 35,00"
+      },
+      {
+        name: "Cartela de Brincos - CA0151 (Banho Flash)",
         price: "R$ 49,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
+        name: "Cartela de Brincos - CA0150 (Banho Flash)",
         price: "R$ 49,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0132 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0106 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0105 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0102 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0101 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0098 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0095 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0086 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0085 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0084 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0078 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0077 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0073 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0072 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0071 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0068 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0067 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0063 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0062 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0061 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0058 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0057 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0056 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0052 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0051 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0049 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0048 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0047 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0044 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0042 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0041 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0039 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0038 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0035 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0034 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0033 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0032 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0030 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0029 (Folheado)",
+        price: "R$ 17,80"
+      },  
+      {
+        name: "Cartela de Brincos - CA0028 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0025 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0019 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0018 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0015 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0014 (Bijuteria)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0011 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0009 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0006 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0003 (Folheado)",
+        price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Cartela de Brincos - CA0306 (Folheado)",
+        price: "R$ 17,80"
+      },
+    ],
+    piercing: [
+      {
+        name: "Piercing Falso - PF0182 (Banho Flash)",
+        price: "R$ 19,80" 
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Piercing Falso - PF0181 (Banho Flash)",
+        price: "R$ 19,80" 
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Piercing Falso - PF0180 (Banho Flash)",
+        price: "R$ 19,80" 
       },
       {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
+        name: "Piercing Falso - PF0179 (Banho Flash)",
+        price: "R$ 19,80" 
+      },
+      {
+        name: "Piercing Falso - PF0178 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0177 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0176 (Banho Flash)",
+        price: "R$ 21,80" 
+      },
+      {
+        name: "Piercing Falso - PF0175 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0174 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0173 (Banho Flash)",
+        price: "R$ 21,80" 
+      },
+      {
+        name: "Piercing Falso - PF0172 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0170 (Banho Flash)",
+        price: "R$ 21,80" 
+      },
+      {
+        name: "Piercing Falso - PF0169 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0168 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0166 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0165 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0164 (Banho Flash)",
+        price: "R$ 21,80" 
+      },
+      {
+        name: "Piercing Falso - PF0163 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0162 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0161 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0160 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0158 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0157 (Banho Flash)",
+        price: "R$ 21,80" 
+      },
+      {
+        name: "Piercing Falso - PF0153 (Banho Flash)",
+        price: "R$ 21,80" 
+      },
+      {
+        name: "Piercing Falso - PF0152 (Banho Flash)",
+        price: "R$ 21,80" 
+      },
+      {
+        name: "Piercing Falso - PF0148 (Banho Flash)",
+        price: "R$ 21,80" 
+      },
+      {
+        name: "Piercing Falso - PF0145 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0142 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0138 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0136 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0133 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0130 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0129 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0121 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0120 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0119 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0117 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0113 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0111 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0107 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0106 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0103 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0098 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0089 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0086 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0080 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0079 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0072 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0071 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0070 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0068 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0043 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0042 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0041 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0035 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0034 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0020 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0019 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0018 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0016 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0015 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0013 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0012 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0011 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0008 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0006 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+    ],
+    earcuff:[
+      {
+          name: "BRINCOS EARCUFF - BE0128 (Banho Flash)",
+          price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0126 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0125 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0123 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0122 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0121 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0120 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0119 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0118 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0117 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0116 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0115 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0114 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0113 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0110 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0106 (Banho Flash)",
+        price: "R$ 11,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0105 (Banho Flash)",
+        price: "R$ 11,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0102 (Banho Flash)",
+        price: "R$ 11,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0097 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0096 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0093 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0092 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0089 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0086 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0085 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0084 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0083 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0082 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0075 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0074 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0073 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0071 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0070 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0069 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0064 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0063 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0062 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0061 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0059 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0058 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0057 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0055 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0054 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0053 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0051 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0049 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0048 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0047 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0046 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0045 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0044 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0043 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0040 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0039 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0038 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0037 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0036 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0035 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0034 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0033 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0032 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0031 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0030 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0029 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0022 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0018 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0015 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0014 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0011 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0010 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0008 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0003 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0131 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0129 (Banho Flash)",
+        price: "R$ 19,80"  
+      },
+      {
+        name: "BRINCOS EARCUFF - BE0002 (Banho Flash)",
+        price: "R$ 15,80"  
+      },
+    ],
+    conjunto: [
+      {
+        name: "Conjuntos Colar + Brincos -CJ0109 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0108 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Pulseira -CJ0093 (Folheado)",
+        price: "R$ 39,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0067 (Folheado)",
+        price: "R$ 42,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0122 (Folheado)",
+        price: "R$ 44,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0121 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0120 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0118 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0117 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0116 (Folheado)",
+        price: "R$ 44,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0115 (Folheado)",
+        price: "R$ 44,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0114 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0111 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0110 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0107 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0106 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0105 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0104 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0103 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0102 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0101 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0100 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0099 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0098 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0097 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0096 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0095 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0094 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0092 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0082 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0080 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0064 (Folheado)",
+        price: "R$ 42,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0046 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0038 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0032 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos Colar + Brincos -CJ0108 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Conjuntos -CJ0201 (Semi Jóia)",
+        price: "R$ 190,00"       
+      },
+      {
+        name: "Conjuntos - CJ0200 (Semi Jóia)",
+        price: "R$ 190,00"
+      },
+      {
+        name: "Conjuntos - CJ0187 (Semi Jóia)",
+        price: "R$ 93,80"
+      },
+      {
+        name: "Conjuntos - CJ0186 (Semi Jóia)",
+        price: "R$ 93,80"
+      },
+      {
+        name: "Conjuntos - CJ0179 (Semi Jóia)",
+        price: "R$ 125,80"        
+      },
+      {
+        name: "Conjuntos - CJ0178 (Semi Jóia)",
+        price: "R$ 125,80"
+      },
+    ],
+    cabelo: [
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0073",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0072",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0070",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0069",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0067",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0066",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0065",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0064",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0063",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0062",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0061",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0060",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0059",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0058",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0057",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0056",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0055",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0053",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0050",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0049",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0048",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0047",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0044",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0043",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0042",
+        price: "R$ 15,80"  
+      },
+      {
+        name: "ACESSÓRIOS DE CABELO -AC0041",
+        price: "R$ 15,80"  
       },
     ],
   };
@@ -3924,6 +4816,10 @@ function confirmar() {
     pulseira: 108,
     grande: 42,
     cartela: 68,
+    piercing: 66,
+    earcuff: 75,
+    conjunto: 42,
+    cabelo: 26,
   };
 
   const maxImagesInFolder = limits[value]; // maior numero de arquivos dentro da pasta correspondente
