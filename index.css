@@ -27,7 +27,7 @@
 }
 
 img {
-  width: 250px;
+  width: 100%;
 }
 h1 {
   color: rgb(48, 47, 47);
@@ -58,4 +58,10 @@ footer {
     display: flex;
     flex-direction: column;
   }
+@media(max-width: 450px){ 
+  img {
+    width: 100%;
+  }
+}
+  
   
