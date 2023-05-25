@@ -3682,235 +3682,279 @@ function confirmar() {
         price: "R$ 11,80"
       },
     ],
-    cartela: [
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
-      {
-        name: "Cartela de Brincos - CA0147 (Banho Flash)",
-        price: "R$ 49,80"
-      },
+     cartela: [
+   {
+     name: "Cartela de Brincos - CA0147 (Banho Flash)",
+     price: "R$ 49,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0176 (Banho Flash)",
+     price: "R$ 73,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0175 (Banho Flash)",
+     price: "R$ 73,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0174 (Banho Flash)",
+     price: "R$ 49,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0172 (Banho Flash)",
+     price: "R$ 49,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0171 (Folheado)",
+     price: "R$ 25,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0170 (Folheado)",
+     price: "R$ 25,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0168 (Folheado)",
+     price: "R$ 35,00"
+   },
+   {
+     name: "Cartela de Brincos - CA0167 (Folheado)",
+     price: "R$ 35,00"
+   },
+   {
+     name: "Cartela de Brincos - CA0166 (Folheado)",
+     price: "R$ 35,00"
+   },
+   {
+     name: "Cartela de Brincos - CA0165 (Folheado)",
+     price: "R$ 35,00"
+   },
+   {
+     name: "Cartela de Brincos - CA0164 (Folheado)",
+     price: "R$ 35,00"
+   },
+   {
+     name: "Cartela de Brincos - CA0145 (Folheado)",
+     price: "R$ 35,00"
+   },
+   {
+     name: "Cartela de Brincos - CA0144 (Folheado)",
+     price: "R$ 35,00"
+   },
+   {
+     name: "Cartela de Brincos - CA0143 (Folheado)",
+     price: "R$ 35,00"
+   },
+   {
+     name: "Cartela de Brincos - CA0142 (Folheado)",
+     price: "R$ 35,00"
+   },
+   {
+     name: "Cartela de Brincos - CA0151 (Banho Flash)",
+     price: "R$ 49,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0150 (Banho Flash)",
+     price: "R$ 49,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0132 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0106 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0105 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0102 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0101 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0098 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0095 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0086 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0085 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0084 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0078 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0077 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0073 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0072 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0071 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0068 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0067 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0063 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0062 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0061 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0058 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0057 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0056 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0052 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0051 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0049 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0048 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0047 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0044 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0042 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0041 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0039 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0038 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0035 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0034 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0033 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0032 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0030 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0029 (Folheado)",
+     price: "R$ 17,80"
+   },  
+   {
+     name: "Cartela de Brincos - CA0028 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0025 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0019 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0018 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0015 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0014 (Bijuteria)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0011 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0009 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0006 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0003 (Folheado)",
+     price: "R$ 17,80"
+   },
+   {
+     name: "Cartela de Brincos - CA0306 (Folheado)",
+     price: "R$ 17,80"
+   },
     ],
      piercing: [
    {
