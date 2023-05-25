@@ -1,0 +1,61 @@
+.app {
+  background-color: #cacaca;
+}
+
+#titulo {
+  color: rgb(85, 85, 85);
+}
+
+#preco {
+  color: #000aaa;
+}
+
+#box {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px;
+  gap: 10px;
+}
+
+img {
+  width: 250px;
+}
+h1 {
+  color: rgb(48, 47, 47);
+text-align:center;
+font-family:'Courier New', Courier, monospace;
+}
+h2 {
+  color: rgb(48, 47, 47);
+  font-family:'Courier New', Courier, monospace;
+}
+h3 {
+  color: rgb(48, 47, 47);
+  font-family:'Courier New', Courier, monospace;
+}
+footer {
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font: 30pt;
+  font-family:'Courier New', Courier, monospace;
+
+  }
+  #result {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  #group {
+    display: flex;
+    flex-direction: column;
+  }
+  
