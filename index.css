@@ -64,10 +64,6 @@ footer {
 }
   }
 # título {
-  tamanho da fonte :  25 px ;
+  tamanho da fonte :  20 px ;
 }
-@media(max-width: 500px){
-  # título {
-  tamanho da fonte :  15 px ;
-}
-}
+
