@@ -58,11 +58,11 @@ footer {
     display: flex;
     flex-direction: column;
   }
-  @media(max-width: 450px){ 
+  @media(max-width: 500px){ 
     img {
       width: 100%;
       # título {
-  tamanho da fonte :  20 px ;
+  tamanho da fonte :  15 px ;
 }
     }
   }
