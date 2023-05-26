@@ -61,11 +61,13 @@ footer {
   @media(max-width: 500px){ 
     img {
       width: 100%;
-      # título {
-  tamanho da fonte :  15 px ;
 }
-    }
   }
 # título {
   tamanho da fonte :  25 px ;
+}
+@media(max-width: 500px){
+  # título {
+  tamanho da fonte :  15 px ;
+}
 }
