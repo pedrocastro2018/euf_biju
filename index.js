@@ -36,8 +36,8 @@ function confirmar() {
         price: "R$ 29,80",
       }, 
       {
-        name:  "Colar Choker - CK0287 (Folheado) ",
-        price: "R$ 33,80",
+        name:  "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Choker - CK0286 (Folheado)",
@@ -88,16 +88,16 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Choker - CK0269 (Folheado)",
-        price: "R$ 29,80",
+        name: "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Choker - CK0268 (Folheado)",
         price: "R$ 33,80",
       },
       {
-        name: "Colar Choker - CK0265 (Folheado)",
-        price: "R$ 33,80",
+        name: "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Choker - CK0264 (Folheado)",
@@ -108,16 +108,16 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Choker - CK0260 (Folheado)",
-        price: "R$ 29,80",
+        name: "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Choker - CK0259 (Folheado)",
         price: "R$ 29,80",
       },
       {
-        name: "Colar Choker - CK0258 (Folheado)",
-        price: "R$ 29,80",
+        name: "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Choker - CK0254 (Folheado)",
@@ -212,8 +212,8 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Choker - CK0222 (Folheado)",
-        price: "R$ 29,80",
+        name: "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Choker - CK0221 (Folheado)",
@@ -260,8 +260,8 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Choker - CK0201 (Folheado)",
-        price: "R$ 29,80",
+        name: "",
+        price: "",
       },
       {
         name: "Colar Choker - CK0098 (Folheado)",
@@ -300,12 +300,12 @@ function confirmar() {
         price: "R$ 19,80",
       },
       {
-        name: "Colar Choker - CK0059 (Folheado)",
-        price: "R$ 29,80",
+        name: "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Choker - CK0058 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0057 (Folheado)",
@@ -316,8 +316,8 @@ function confirmar() {
         price: "R$ 19,80",
       },
       {
-        name: "Colar Choker - CK0288 (Folheado)",
-        price: "R$ 29,80",
+        name: "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Choker - CK0215 (Folheado)",
@@ -415,6 +415,18 @@ function confirmar() {
         name: "Colar Choker - CK0002 (Bijuteria)",
         price: "R$ 29,80",
       },
+      {
+        name: "Colar Choker - CK0215 (Folheado)",
+        price: "R$ 29,80",
+      },
+      {
+        name: "Colar Choker - CK0246 (Folheado)",
+        price: "R$ 29,80",
+      },
+      {
+        name: "Colar Choker - CK0054 (Folheado)",
+        price: "R$ 29,80",
+      },
     ],
     longo: [
       {
@@ -510,63 +522,63 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0742 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0740 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0739 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0738 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0736 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0735 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0733 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0732 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0730 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0729 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0728 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0726 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0724 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0723 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0722 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0702 (Folheado)",
@@ -574,7 +586,7 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0719 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0716 (Folheado)",
@@ -657,8 +669,8 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Curto -CC0664 (Folheado)",
-        price: "R$ 29,80",
+        name: "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Curto -CC0682 (Folheado)",
@@ -734,7 +746,7 @@ function confirmar() {
       },
       {
         name: "Letras CC0101 (Somente as letras)",
-        price: "R$ 9,80",
+        price: "R$ 15,80",
       },
       {
         name: "Colar de Letras -CC0100 (Folheado)",
@@ -746,7 +758,7 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0647 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0646 (Folheado)",
@@ -762,15 +774,15 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0641 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0640 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0639 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0636 (Folheado)",
@@ -782,11 +794,11 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0633 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0632 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0631 (Folheado)",
@@ -814,15 +826,15 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0623 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0622 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0621 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0619 (Folheado)",
@@ -834,11 +846,11 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0616 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0610 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0608 (Folheado)",
@@ -1163,6 +1175,30 @@ function confirmar() {
       {
         name: "Mix de Colares - MX0001 (Folheado)",
         price: "R$ 17,80"
+      },
+      {
+        name: "Mix de Colares - MX0186 (Folheado)",
+        price: "R$ 29,80"
+      },
+      {
+        name: "Mix de Colares - MX0190 (Folheado)",
+        price: "R$ 29,80"
+      },
+      {
+        name: "Mix de Colares - MX0189 (Folheado)",
+        price: "R$ 29,80"
+      },
+      {
+        name: "Mix de Colares - MX0188 (Folheado)",
+        price: "R$ 29,80"
+      },
+      {
+        name: "Mix de Colares - MX0194 (Folheado)",
+        price: "R$ 29,80"
+      },
+      {
+        name: "Mix de Colares - MX0193 (Folheado)",
+        price: "R$ 29,80"
       },
     ],
     argola: [
@@ -2346,19 +2382,19 @@ function confirmar() {
     basic: [
       {
         name : "Brincos Basic - BB0272 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0268 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0224 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0220 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "ESGOTADO",
@@ -2366,547 +2402,547 @@ function confirmar() {
       },
       {
         name : "Brincos Basic - BB0215 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0214 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0213 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0209 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0208 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0205 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0200 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0196 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0195 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0194 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0193 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0192 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0189 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0186 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0183 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0181 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0180 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0179 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0176 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0174 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0168 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0167 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0166 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0165 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0161 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0160 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0159 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0155 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0154 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0152 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0149 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0148 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0146 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0144 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0139 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0136 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0135 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0131 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0129 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0128 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0127 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0126 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0125 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0124 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0120 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0116 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0112 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0110 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0109 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0105 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0103 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0102 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0100 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0099 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0095 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0094 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0087 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0086 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0085 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0084 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0083 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0082 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0081 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0080 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0078 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0077 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0076 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0074 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0073 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0072 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0071 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0070 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0069 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0067 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0064 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0062 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0060 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0059 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0058 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0057 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0056 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0054 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0053 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0051 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0049 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0047 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0045 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0040 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0032 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0030 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0028 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0024 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0022 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0021 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0020 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0012 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0011 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0010 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0009 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0008 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0007 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0006 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0005 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0245 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0272 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0271 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0270 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0267 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0264 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0263 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0262 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0259 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0258 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0257 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0255 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0253 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0252 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0251 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0250 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0249 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0248 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0247 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0246 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0244 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0243 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0079 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0066 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0052 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0050 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0048 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0042 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0035 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0027 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0016 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0014 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
       {
         name : "Brincos Basic - BB0013 (Folheado)",
-        price : "R$ 6,66"
+        price : "R$ 10,00"
       },
     ],
     anel: [
@@ -4803,10 +4839,10 @@ function confirmar() {
   };
 
   const limits = {
-    colar: 100,
+    colar: 101,
     longo: 19,
     curto: 95,
-    mix: 71,
+    mix: 77,
     argola: 67,
     pequeno: 139,
     argolinha: 76,

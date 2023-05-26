@@ -58,20 +58,12 @@ footer {
     display: flex;
     flex-direction: column;
   }
-<<<<<<< HEAD
   @media(max-width: 450px){ 
     img {
       width: 100%;
+      font-size: 10px;
     }
   }
-  
-  
-=======
-@media(max-width: 450px){ 
-  img {
-    width: 100%;
-  }
+#title {
+  font-size: 10px;
 }
-  
-  
->>>>>>> 6d35dff4a696fabfb4189c63d39eea2ad0e7f344
