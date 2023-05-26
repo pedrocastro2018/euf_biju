@@ -510,63 +510,63 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0742 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0740 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0739 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0738 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0736 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0735 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0733 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0732 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0730 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0729 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0728 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0726 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0724 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0723 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0722 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0702 (Folheado)",
@@ -574,7 +574,7 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0719 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0716 (Folheado)",
@@ -734,7 +734,7 @@ function confirmar() {
       },
       {
         name: "Letras CC0101 (Somente as letras)",
-        price: "R$ 9,80",
+        price: "R$ 15,80",
       },
       {
         name: "Colar de Letras -CC0100 (Folheado)",
@@ -746,7 +746,7 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0647 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0646 (Folheado)",
@@ -762,15 +762,15 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0641 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0640 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0639 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0636 (Folheado)",
@@ -782,11 +782,11 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0633 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0632 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0631 (Folheado)",
@@ -814,15 +814,15 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0623 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0622 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0621 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0619 (Folheado)",
@@ -834,11 +834,11 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0616 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0610 (Folheado)",
-        price: "R$ 17,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0608 (Folheado)",
