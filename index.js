@@ -156,10 +156,6 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Choker - CK0242 (Folheado)",
-        price: "R$ 29,80",
-      },
-      {
         name: "Colar Choker - CK0241 (Folheado)",
         price: "R$ 29,80",
       },
@@ -260,19 +256,15 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "",
+        name: "ESGOTADO",
         price: "",
       },
       {
         name: "Colar Choker - CK0098 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0097 (Folheado)",
-        price: "R$ 19,80",
-      },
-      {
-        name: "Colar Choker - CK0096 (Folheado)",
         price: "R$ 29,80",
       },
       {
@@ -281,27 +273,23 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0090 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0089 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0088 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0070 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0060 (Folheado)",
-        price: "R$ 19,80",
-      },
-      {
-        name: "ESGOTADO",
-        price: "",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0058 (Folheado)",
@@ -309,11 +297,11 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0057 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0044 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "ESGOTADO",
@@ -329,27 +317,27 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0051 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0044 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0043 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0027 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0026 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0025 (Folheado)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0024 (Folheado)",
@@ -365,7 +353,7 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0017 (Bijuteria)",
-        price: "R$ 19,80",
+        price: "R$ 29,80",
       },
       {
         name: "Colar Choker - CK0016 (Bijuteria)",
@@ -894,219 +882,219 @@ function confirmar() {
     mix: [
       {
         name: "Mix de Colares - MX0185 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0184 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0183 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0182 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0181 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0180 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0179 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0178 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0177 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0176 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0175 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0174 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0173 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0172 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0171 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0170 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0169 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0167 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0164 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0162 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0161 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0160 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0159 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0158 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0157 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0156 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0155 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0154 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0153 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0152 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0151 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0150 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0149 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0148 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0147 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0146 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0145 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0144 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0141 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0139 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0138 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0137 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0136 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0135 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0133 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0132 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0131 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0130 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0129 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0128 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0127 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0125 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0118 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0116 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "ESGOTADO",
@@ -1114,35 +1102,35 @@ function confirmar() {
       },
       {
         name: "Mix de Colares - MX0113 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0185 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0091 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0071 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0057 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0042 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0030 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0027 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "ESGOTADO",
@@ -1150,55 +1138,55 @@ function confirmar() {
       },
       {
         name: "Mix de Colares - MX0009 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0008 (Folheado)",
-        price: "R$ 17,80"
+        price: "R$ 28,80"
       },
       {
         name: "Mix de Colares - MX0007 (Folheado)",
-        price: "R$ 17,80"
+        price: "R$ 28,80"
       },
       {
         name: "Mix de Colares - MX0006 (Folheado)",
-        price: "R$ 17,80"
+        price: "R$ 28,80"
       },
       {
         name: "Mix de Colares - MX0005 (Folheado)",
-        price: "R$ 17,80"
+        price: "R$ 28,80"
       },
       {
         name: "Mix de Colares - MX0002 (Folheado)",
-        price: "R$ 17,80"
+        price: "R$ 28,80"
       },
       {
         name: "Mix de Colares - MX0001 (Folheado)",
-        price: "R$ 17,80"
+        price: "R$ 28,80"
       },
       {
         name: "Mix de Colares - MX0186 (Folheado)",
-        price: "R$ 29,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0190 (Folheado)",
-        price: "R$ 29,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0189 (Folheado)",
-        price: "R$ 29,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0188 (Folheado)",
-        price: "R$ 29,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0194 (Folheado)",
-        price: "R$ 29,80"
+        price: "R$ 38,80"
       },
       {
         name: "Mix de Colares - MX0193 (Folheado)",
-        price: "R$ 29,80"
+        price: "R$ 38,80"
       },
     ],
     argola: [
