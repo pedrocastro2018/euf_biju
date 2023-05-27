@@ -3084,6 +3084,7 @@ function confirmar() {
       },
       {
         name: "Anel (Escolha o tamanho) -AN0008 (Bijuteria)",
+        priece : "R$ 15,80"
       },
       {
         name: "Anel (Escolha o tamanho) -AN0007 (Bijuteria)",
@@ -4824,7 +4825,7 @@ function confirmar() {
         price: "R$ 15,80"  
       },
     ],
-     piercing: [
+    piercing: [
    {
      name: "Piercing Falso - PF0182 (Banho Flash)",
      price: "R$ 19,80" 
