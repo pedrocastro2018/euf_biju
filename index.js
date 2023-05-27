@@ -3084,6 +3084,7 @@ function confirmar() {
       },
       {
         name: "Anel (Escolha o tamanho) -AN0008 (Bijuteria)",
+        price : "R$ 15,80"
       },
       {
         name: "Anel (Escolha o tamanho) -AN0007 (Bijuteria)",
