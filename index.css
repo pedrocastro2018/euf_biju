@@ -63,7 +63,9 @@ footer {
       width: 100%;
 }
   }
+  @media(max-width: 500px){
 #titulo {
-  font-size: 19px;
+  font-size: 13px;
 }
+  }
 
