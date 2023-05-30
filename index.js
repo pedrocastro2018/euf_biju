@@ -3088,11 +3088,7 @@ function confirmar() {
       },
       {
         name: "Anel (Escolha o tamanho) -AN0008 (Bijuteria)",
-<<<<<<< HEAD
         priece : "R$ 15,80"
-=======
-        price : "R$ 15,80"
->>>>>>> 9335a4b628b07f2d7ebd7acb8a4619b246d69461
       },
       {
         name: "Anel (Escolha o tamanho) -AN0007 (Bijuteria)",
