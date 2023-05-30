@@ -396,8 +396,8 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Choker - CK0003 (Bijuteria)",
-        price: "R$ 29,80",
+        name: "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Choker - CK0002 (Bijuteria)",
@@ -409,12 +409,12 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0246 (Folheado)",
-        price: "R$ 29,80",
+        price: "29,80"
       },
       {
         name: "Colar Choker - CK0054 (Folheado)",
-        price: "R$ 29,80",
-      },
+        price: "R$ 29,80"
+      }
     ],
     longo: [
       {
@@ -901,8 +901,8 @@ function confirmar() {
         price: "R$ 38,80"
       },
       {
-        name: "Mix de Colares - MX0180 (Folheado)",
-        price: "R$ 38,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Mix de Colares - MX0179 (Folheado)",
@@ -1287,16 +1287,16 @@ function confirmar() {
         price: "R$ 15,80"
       },
       {
-        name: "Brincos Argolas - BA0050 (Banho Flash)",
-        price: "R$ 15,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Brincos Argolas - BA0047 (Banho Flash)",
         price: "R$ 15,80"
       },
       {
-        name: "Brincos Argolas - BA0046 (Banho Flash)",
-        price: "R$ 15,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Brincos Argolas - BA0045 (Banho Flash)",
@@ -1791,8 +1791,8 @@ function confirmar() {
         price: "R$ 25,80"
       },
       { 
-        name: "Brincos Pequenos - BP0338 (Folheado)",
-        price: "R$ 6,90"
+        name: "ESGOTADO",
+        price: ""
       },
       { 
         name: "Brincos Pequenos - BP0333 (Folheado)",
@@ -1835,8 +1835,8 @@ function confirmar() {
         price: ""
       },
       { 
-        name: "Brincos Pequenos - BP0303 (Bijuteria)",
-        price: "R$ 6,90"
+        name: "ESGOTADO",
+        price: ""
       },
       { 
         name: "Brincos Pequenos - BP0301 (Folheado)",
@@ -2056,6 +2056,10 @@ function confirmar() {
       },
       { 
         name: "Brincos Pequenos - BP0254 (Banho Flash)",
+        price: "R$ 19,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0253 (Banho Flash)",
         price: "R$ 19,80"
       },
     ],
@@ -2493,8 +2497,8 @@ function confirmar() {
         price : "R$ 10,00"
       },
       {
-        name : "Brincos Basic - BB0159 (Folheado)",
-        price : "R$ 10,00"
+        name : "ESGOTADO",
+        price : ""
       },
       {
         name : "Brincos Basic - BB0155 (Folheado)",
@@ -2589,8 +2593,8 @@ function confirmar() {
         price : "R$ 10,00"
       },
       {
-        name : "Brincos Basic - BB0103 (Folheado)",
-        price : "R$ 10,00"
+        name : "ESGOTADO",
+        price : ""
       },
       {
         name : "Brincos Basic - BB0102 (Folheado)",
@@ -2633,8 +2637,8 @@ function confirmar() {
         price : "R$ 10,00"
       },
       {
-        name : "Brincos Basic - BB0082 (Folheado)",
-        price : "R$ 10,00"
+        name : "ESGOTADO",
+        price : ""
       },
       {
         name : "Brincos Basic - BB0081 (Folheado)",
@@ -2717,8 +2721,8 @@ function confirmar() {
         price : "R$ 10,00"
       },
       {
-        name : "Brincos Basic - BB0053 (Folheado)",
-        price : "R$ 10,00"
+        name : "ESGOTADO",
+        price : ""
       },
       {
         name : "Brincos Basic - BB0051 (Folheado)",
@@ -2947,7 +2951,7 @@ function confirmar() {
         price : ""
       },
       {
-        name: "Anel (Escolha o tamanho) -AN0073 (Bijuteria)",
+        name: "Anel (Escolha o tamanho) -AN0012 (Folheado)",
         price : "R$ 15,80"
       },
       {
@@ -3102,6 +3106,10 @@ function confirmar() {
         name: "Anel (Escolha o tamanho) -AN0002 (Bijuteria)",
         price : "R$ 15,80"
       },
+      {
+        name: "Anel (Escolha o tamanho) -AN0003 (Bijuteria)",
+        price: "R$ 15,80"
+      },
     ],
     pulseira: [
       {
@@ -3217,8 +3225,8 @@ function confirmar() {
         price: "R$ 21,80"
       },
       {
-        name: "Pulseiras - PU0116 (Folheado)",
-        price: "R$ 21,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Pulseiras - PU0115 (Folheado)",
@@ -3281,8 +3289,8 @@ function confirmar() {
         price: "R$ 11,80"
       },
       {
-        name: "Pulseiras - PU0094 (Folheado)",
-        price: "R$ 21,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Pulseiras - PU0093 (Folheado)",
@@ -3321,8 +3329,8 @@ function confirmar() {
         price: "R$ 21,80"
       },
       {
-        name: "Pulseiras - PU0080 (Folheado)",
-        price: "R$ 21,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Pulseiras - PU0079 (Folheado)",
@@ -4071,12 +4079,12 @@ function confirmar() {
         price: "R$ 15,80" 
       },
       {
-        name: "Piercing Falso - PF0157 (Banho Flash)",
-        price: "R$ 21,80" 
+        name: "ESGOTADO",
+        price: "" 
       },
       {
-        name: "Piercing Falso - PF0153 (Banho Flash)",
-        price: "R$ 21,80" 
+        name: "ESGOTADO",
+        price: "" 
       },
       {
         name: "Piercing Falso - PF0152 (Banho Flash)",
@@ -5090,7 +5098,7 @@ function confirmar() {
      name: "Piercing Falso - PF0006 (Banho Flash)",
      price: "R$ 15,80" 
    },
-  ],
+    ],
      earcuff:[
    {
        name: "BRINCOS EARCUFF - BE0128 (Banho Flash)",
@@ -5392,7 +5400,7 @@ function confirmar() {
      name: "BRINCOS EARCUFF - BE0002 (Banho Flash)",
      price: "R$ 15,80"  
    },
- ],
+    ],
      conjunto: [
    {
      name: "Conjuntos Colar + Brincos -CJ0109 (Folheado)",
@@ -5562,7 +5570,7 @@ function confirmar() {
      name: "Conjuntos - CJ0178 (Semi Jóia)",
      price: "R$ 125,80"
    },
- ],
+    ],
     cabelo: [
   {
     name: "ACESSÓRIOS DE CABELO -AC0073",
@@ -5668,7 +5676,7 @@ function confirmar() {
     name: "ACESSÓRIOS DE CABELO -AC0041",
     price: "R$ 15,80"  
   },
-],
+    ],
   };
 
   const limits = {
