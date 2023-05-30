@@ -5689,7 +5689,7 @@ function confirmar() {
     argolinha: 76,
     basic: 141,
     tornozeleira: 11,
-    anel: 42,
+    anel: 43,
     pulseira: 108,
     grande: 42,
     cartela: 68,
