@@ -541,8 +541,8 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Curto -CC0730 (Folheado)",
-        price: "R$ 29,80",
+        name: "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Curto -CC0729 (Folheado)",
@@ -613,8 +613,8 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Curto -CC0699 (Folheado)",
-        price: "R$ 29,80",
+        name: "ESGOTADO",
+        price: "",
       },
       {
         name: "Colar Curto -CC0697 (Folheado)",
@@ -1089,12 +1089,12 @@ function confirmar() {
         price: "R$ 38,80"
       },
       {
-        name: "Mix de Colares - MX0118 (Folheado)",
-        price: "R$ 38,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
-        name: "Mix de Colares - MX0116 (Folheado)",
-        price: "R$ 38,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "ESGOTADO",
@@ -1185,8 +1185,8 @@ function confirmar() {
         price: "R$ 38,80"
       },
       {
-        name: "Mix de Colares - MX0193 (Folheado)",
-        price: "R$ 38,80"
+        name: "ESGOTADO",
+        price: ""
       },
     ],
     argola: [
@@ -1195,8 +1195,8 @@ function confirmar() {
         price: "R$ 15,80"
       },
       {
-        name: "Brincos Argolas - BA0099 (Banho Flash)",
-        price: "R$ 15,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Brincos Argolas - BA0098 (Banho Flash)",
@@ -1279,8 +1279,8 @@ function confirmar() {
         price: "R$ 15,80"
       },
       {
-        name: "Brincos Argolas - BA0057 (Banho Flash)",
-        price: "R$ 9,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Brincos Argolas - BA0051 (Banho Flash)",
@@ -2417,8 +2417,8 @@ function confirmar() {
         price : "R$ 10,00"
       },
       {
-        name : "Brincos Basic - BB0200 (Folheado)",
-        price : "R$ 10,00"
+        name : "ESGOTADO",
+        price : ""
       },
       {
         name : "Brincos Basic - BB0196 (Folheado)",
@@ -2453,8 +2453,8 @@ function confirmar() {
         price : "R$ 10,00"
       },
       {
-        name : "Brincos Basic - BB0181 (Folheado)",
-        price : "R$ 10,00"
+        name : "ESGOTADO",
+        price : ""
       },
       {
         name : "Brincos Basic - BB0180 (Folheado)",
@@ -2485,8 +2485,8 @@ function confirmar() {
         price : "R$ 10,00"
       },
       {
-        name : "Brincos Basic - BB0165 (Folheado)",
-        price : "R$ 10,00"
+        name : "ESGOTADO",
+        price : ""
       },
       {
         name : "Brincos Basic - BB0161 (Folheado)",
@@ -3551,12 +3551,12 @@ function confirmar() {
         price: "R$ 11,80"
       },
       {
-        name: "BRINCOS - BG0116 (Banho Flash)",
-        price: "R$ 25,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
-        name: "BRINCOS - BG0110 (Banho Flash)",
-        price: "R$ 25,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "BRINCOS - BG0094 (Banho Flash)",
@@ -3631,12 +3631,12 @@ function confirmar() {
         price: "R$ 15,80"
       },
       {
-        name: "BRINCOS - BG0050 (Bijuteria)",
-        price: "R$ 15,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
-        name: "BRINCOS - BG0049 (Bijuteria)",
-        price: "R$ 15,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "BRINCOS - BG0048 (Bijuteria)",
@@ -3651,8 +3651,8 @@ function confirmar() {
         price: "R$ 15,80"
       },
       {
-        name: "BRINCOS - BG0037 (Bijuteria)",
-        price: "R$ 15,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "BRINCOS - BG0034 (Bijuteria)",
@@ -4261,16 +4261,16 @@ function confirmar() {
           price: "R$ 19,80"  
       },
       {
-        name: "BRINCOS EARCUFF - BE0126 (Banho Flash)",
-        price: "R$ 19,80"  
+        name: "ESGOTADO",
+        price: ""  
       },
       {
         name: "BRINCOS EARCUFF - BE0125 (Banho Flash)",
         price: "R$ 19,80"  
       },
       {
-        name: "BRINCOS EARCUFF - BE0123 (Banho Flash)",
-        price: "R$ 15,80"  
+        name: "ESGOTADO",
+        price: ""  
       },
       {
         name: "BRINCOS EARCUFF - BE0122 (Banho Flash)",
@@ -4333,8 +4333,8 @@ function confirmar() {
         price: "R$ 19,80"  
       },
       {
-        name: "BRINCOS EARCUFF - BE0096 (Banho Flash)",
-        price: "R$ 19,80"  
+        name: "ESGOTADO",
+        price: ""  
       },
       {
         name: "BRINCOS EARCUFF - BE0093 (Banho Flash)",
@@ -4425,8 +4425,8 @@ function confirmar() {
         price: "R$ 15,80"  
       },
       {
-        name: "BRINCOS EARCUFF - BE0054 (Banho Flash)",
-        price: "R$ 15,80"  
+        name: "ESGOTADO",
+        price: ""  
       },
       {
         name: "BRINCOS EARCUFF - BE0053 (Banho Flash)",
@@ -4579,8 +4579,8 @@ function confirmar() {
         price: "R$ 44,80"
       },
       {
-        name: "Conjuntos Colar + Brincos -CJ0121 (Folheado)",
-        price: "R$ 38,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Conjuntos Colar + Brincos -CJ0120 (Folheado)",
@@ -4591,8 +4591,8 @@ function confirmar() {
         price: "R$ 38,80"
       },
       {
-        name: "Conjuntos Colar + Brincos -CJ0117 (Folheado)",
-        price: "R$ 38,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Conjuntos Colar + Brincos -CJ0116 (Folheado)",
@@ -4651,8 +4651,8 @@ function confirmar() {
         price: "R$ 38,80"
       },
       {
-        name: "Conjuntos Colar + Brincos -CJ0098 (Folheado)",
-        price: "R$ 38,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Conjuntos Colar + Brincos -CJ0097 (Folheado)",
@@ -4679,8 +4679,8 @@ function confirmar() {
         price: "R$ 38,80"
       },
       {
-        name: "Conjuntos Colar + Brincos -CJ0080 (Folheado)",
-        price: "R$ 38,80"
+        name: "ESGOTADO",
+        price: ""
       },
       {
         name: "Conjuntos Colar + Brincos -CJ0064 (Folheado)",
@@ -5419,8 +5419,8 @@ function confirmar() {
      price: "R$ 42,80"
    },
    {
-     name: "Conjuntos Colar + Brincos -CJ0122 (Folheado)",
-     price: "R$ 44,80"
+     name: "ESGOTADO",
+     price: ""
    },
    {
      name: "Conjuntos Colar + Brincos -CJ0121 (Folheado)",
@@ -5539,8 +5539,8 @@ function confirmar() {
      price: "R$ 38,80"
    },
    {
-     name: "Conjuntos Colar + Brincos -CJ0032 (Folheado)",
-     price: "R$ 38,80"
+     name: "ESGOTADO",
+     price: ""
    },
    {
      name: "Conjuntos Colar + Brincos -CJ0108 (Folheado)",
