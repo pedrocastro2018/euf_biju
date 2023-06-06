@@ -76,7 +76,7 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Choker - CK0273 (Folheado)",
+        name: "Colar Choker - CK0273 (Folheado) ESGOTADO",
         price: "R$ 33,80",
       },
       {
@@ -136,7 +136,7 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Choker - CK0250 (Folheado)",
+        name: "Colar Choker - CK0250 (Folheado) - ESGOTADO",
         price: "R$ 33,80",
       },
       {
@@ -144,7 +144,7 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Choker - CK0248 (Folheado)",
+        name: "Colar Choker - CK0289 (Folheado)",
         price: "R$ 29,80",
       },
       {
@@ -435,7 +435,70 @@ function confirmar() {
         name: "Colar Choker - CK0288 (Folheado)",
         price: "R$ 33,80"
       },
-        
+      {
+       name: "Colar Choker - CK0294 (Folheado)",
+       price: "R$ 29,80"
+      },
+      {
+       name: "Colar Choker - CK0296 (Folheado)",
+       price: "R$ 29,80"
+      },
+      {
+       name: "Colar Choker - CK0295 (Folheado)",
+       price: "R$ 29,80"
+      },
+      {
+       name: "Colar Choker - CK0297 (Folheado)",
+       price: "R$ 29,80"
+      },        
+      {
+       name: "Colar Choker - CK0296 (Folheado)",
+       price: "R$ 29,80" 
+      },    
+      {
+       name: "Colar Choker - CK0291 (Folheado)",
+       price: "R$ 29,80" 
+      },  
+      {
+        name: "Colar Choker - CK0306 (Folheado)",
+        price: "R$ 29,80" 
+      },    
+      {
+       name: "Colar Choker - CK0300 (Folheado)",
+       price: "R$ 29,80" 
+      },   
+      {
+       name: "Colar Choker - CK0310 (Folheado)",
+       price: "R$ 29,80" 
+     },     
+     {
+       name: "Colar Choker - CK0302 (Folheado)",
+       price: "R$ 29,80" 
+     }, 
+     {
+      name: "Colar Choker - CK0304 (Folheado)",
+      price: "R$ 29,80" 
+     }, 
+     {
+      name: "Colar Choker - CK0299 (Folheado)",
+      price: "R$ 29,80" 
+     }, 
+     {
+      name: "Colar Choker - CK0303 (Folheado)",
+      price: "R$ 29,80" 
+     },      
+     {
+       name: "Colar Choker - CK0309 (Folheado)",
+       price: "R$ 29,80" 
+     }, 
+     {
+      name: "Colar Choker - CK0301 (Folheado)",
+      price: "R$ 29,80" 
+     },  
+     {
+      name: "Colar Choker - CK0308 (Folheado)",
+      price: "R$ 29,80" 
+     },                                                                                                                                                                                                                                       
     ],
     longo: [
       {
@@ -646,7 +709,7 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Curto -CC0693 (Folheado)",
+        name: "Colar Curto -CC0693 (Folheado) ESGOTADO",
         price: "R$ 29,80",
       },
       {
@@ -928,14 +991,58 @@ function confirmar() {
         price: "R$ 29,80",
       },
       {
-        name: "Colar Curto -CC0758 (Folheado)",
+        name: "Colar Curto -CC0758 (Folheado) ESGOTADO",
         price: "R$ 29,80",
       },
       {
         name: "Colar Curto -CC0759 (Folheado)",
         price: "R$ 29,80",
       },
-    ], 
+      {
+        name: "Colar Curto -CC0773 (Folheado)",
+        price: "R$ 29,80",
+      },
+      {
+        name: "Colar Curto -CC0769 (Folheado)",
+        price: "R$ 29,80",
+      },
+      {
+      name: "Colar Curto -CC0764 (Folheado)",
+      price: "R$ 29,80",
+      }, 
+      {
+        name: "Colar Curto -CC0774 (Folheado)",
+        price: "R$ 29,80",
+      },
+      {
+        name: "Colar Curto -CC0763 (Folheado)",
+        price: "R$ 29,80",
+      },
+      {
+        name: "Colar Curto -CC0779 (Folheado)",
+        price: "R$ 29,80",
+      },   
+      {
+        name: "Colar Escapulário -CC0786 (Folheado)",
+        price: "R$ 29,80",
+      },
+      {
+       name: "Colar Curto -CC0787 (Folheado)",
+      price: "R$ 29,80",
+      },
+      {
+       name: "Colar Curto -CC0788 (Folheado)",
+       price: "R$ 29,80",
+      },
+      {
+        name: "Colar Curto -CC0790 (Folheado)",
+        price: "R$ 29,80",
+      },
+      {
+       name: "Colar Curto -CC0789 (Folheado)",
+       price: "R$ 29,80",
+      },
+    ],     
     mix: [
       {
         name: "Mix de Colares - MX0185 (Folheado)",
@@ -1265,6 +1372,38 @@ function confirmar() {
         name: "Mix de Colares - MX0197 (Folheado)",
         price: "R$ 38,80"
       },
+      {
+       name: "Mix de Colares - MX0211 (Folheado)",
+       price: "R$ 38,80"
+      },
+      {
+        name: "Mix de Colares - MX0210 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+        name: "Mix de Colares - MX0214 (Folheado)",
+        price: "R$ 38,80"
+      },
+      {
+       name: "Mix de Colares - MX0205 (Folheado)",
+       price: "R$ 38,80"
+      },
+      {
+       name: "Mix de Colares - MX0203 (Folheado)",
+       price: "R$ 38,80"
+      },
+      {
+       name: "Mix de Colares - MX0206 (Folheado)",
+       price: "R$ 38,80"
+      },
+      {
+       name: "Mix de Colares - MX0204 (Folheado)",
+       price: "R$ 38,80"
+      },
+      {
+       name: "Mix de Colares - MX0209 (Folheado)",
+       price: "R$ 38,80"
+      },
     ],
     argola: [
       {
@@ -1296,7 +1435,7 @@ function confirmar() {
         price: "R$ 9,80"
       },
       {
-        name: "Brincos Argolas - BA0086 (Banho Flash)",
+        name: "Brincos Argolas - BA0086 (Banho Flash) ESGOTADO",
         price: "R$ 9,80"
       },
       {
@@ -3350,7 +3489,7 @@ function confirmar() {
         price: "R$ 11,80"
       },
       {
-        name: "Pulseiras - PU0098 (Folheado)",
+        name: "Pulseiras - PU0098 (Folheado) ESGOTADO",
         price: "R$ 11,80"
       },
       {
@@ -3466,7 +3605,7 @@ function confirmar() {
         price: "R$ 21,80"
       },
       {
-        name: "Pulseiras - PU0059 (Folheado)",
+        name: "Pulseiras - PU0059 (Folheado) ESGOTADO",
         price: "R$ 21,80"
       },
       {
@@ -3594,7 +3733,7 @@ function confirmar() {
         price: "R$ 21,80"
       },
       {
-        name: "Pulseiras - PU0010 (Folheado)",
+        name: "Pulseiras - PU0010 (Folheado) ESGOTADO",
         price: "R$ 21,80"
       },
       {
@@ -4062,7 +4201,7 @@ function confirmar() {
         price: "R$ 17,80"
       },
       {
-        name: "Cartela de Brincos - CA0306 (Folheado)",
+        name: "Cartela de Brincos - CA0306 (Folheado) ESGOTADO",
         price: "R$ 17,80"
       },
     ],
@@ -5757,17 +5896,17 @@ function confirmar() {
   };
 
   const limits = {
-    colar: 101,
-    longo: 19,
-    curto: 95,
+    colar: 117,
+    longo: 89,
+    curto: 115,
     mix: 77,
     argola: 67,
-    pequeno: 139,
+    pequeno: 140,
     argolinha: 76,
     basic: 141,
     tornozeleira: 11,
     anel: 43,
-    pulseira: 108,
+    pulseira: 109,
     grande: 42,
     cartela: 68,
     piercing: 66,
