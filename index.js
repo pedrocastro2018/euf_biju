@@ -498,7 +498,11 @@ function confirmar() {
      {
       name: "Colar Choker - CK0308 (Folheado)",
       price: "R$ 29,80" 
-     },                                                                                                                                                                                                                                       
+     },         
+     {
+      name: "Colar Choker - CK0298 (Folheado)",
+      price: "R$ 37,80" 
+     },                                                                                                                                                                                                                                                                      
     ],
     longo: [
       {
@@ -5139,7 +5143,7 @@ function confirmar() {
      price: "R$ 15,80" 
    },
    {
-     name: "Piercing Falso - PF0157 (Banho Flash)",
+     name: "Piercing Falso - PF0157 (Banho Flash) ESGOTADO",
      price: "R$ 21,80" 
    },
    {
@@ -5896,7 +5900,7 @@ function confirmar() {
   };
 
   const limits = {
-    colar: 117,
+    colar: 118,
     longo: 89,
     curto: 115,
     mix: 77,
