@@ -5318,6 +5318,26 @@ function confirmar() {
      name: "Piercing Falso - PF0006 (Banho Flash)",
      price: "R$ 15,80" 
    },
+   {
+    name: "Piercing Falso - PF0187 (Banho Flash)",
+    price: "R$ 15,80" 
+   },
+   {
+    name: "Piercing Falso - PF0186 (Banho Flash)",
+    price: "R$ 15,80" 
+   },
+   {
+    name: "Piercing Falso - PF0185 (Banho Flash)",
+    price: "R$ 15,80" 
+   },
+   {
+    name: "Piercing Falso - PF0183 (Banho Flash)",
+    price: "R$ 15,80" 
+   },
+   {
+    name: "Piercing Falso - PF0184 (Banho Flash)",
+    price: "R$ 15,80" 
+   },
     ],
      earcuff:[
    {
