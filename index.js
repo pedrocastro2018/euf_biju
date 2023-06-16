@@ -2282,6 +2282,147 @@ function confirmar() {
         name: "Brincos Pequenos - BP0253 (Banho Flash)",
         price: "R$ 19,80"
       },
+      {
+       name: "Brincos Pequenos - BP0391 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0465 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0464 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0461 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0462 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0395 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0460 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0393 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0397 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0392 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0431 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0396 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0459 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0440 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0436 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0409 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0403 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0400 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0427 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0419 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0438 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0411 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0422 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0406 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0418 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0460 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0442 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0414 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0416 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0407 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0408 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0424 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0443 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0399 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Pequenos - BP0420 (Bijuteria)",
+       price: "R$ 11,80"
+      },
+
     ],
     argolinha: [
       {
@@ -3159,7 +3300,7 @@ function confirmar() {
     ],
     anel: [
       {
-        name: "Anel (Regulavel) - AN0096 (Bijuteria)",
+        name: "Anel (Regulavel) - AN0096 (Bijuteria) ESGOTADO",
         price : "R$ 15,80"
       },
       {
@@ -5925,7 +6066,7 @@ function confirmar() {
     curto: 115,
     mix: 77,
     argola: 67,
-    pequeno: 140,
+    pequeno: 174,
     argolinha: 76,
     basic: 141,
     tornozeleira: 11,
