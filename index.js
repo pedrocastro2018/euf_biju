@@ -2422,6 +2422,98 @@ function confirmar() {
        name: "Brincos Pequenos - BP0420 (Bijuteria)",
        price: "R$ 11,80"
       },
+      {
+        name: "Brincos Pequenos - BP0429 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0412 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0434 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0417 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0410 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0413 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0432 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0402 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0423 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0458 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0431 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0398 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0415 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0433 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0426 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0404 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0455 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0446 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0445 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0448 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0421 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0388 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0382 (Bijuteria)",
+        price: "R$ 11,80"
+      },
 
     ],
     argolinha: [
@@ -4073,6 +4165,70 @@ function confirmar() {
       },
       {
         name: "BRINCOS - BG0495 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0118 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0119 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0122 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0121 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0120 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0123 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0124 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0131 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0132 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0130 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0127 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0126 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0128 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0133 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG0134 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "BRINCOS - BG01 (Bijuteria)",
         price: "R$ 11,80"
       },
     ],
@@ -6066,11 +6222,11 @@ function confirmar() {
     curto: 115,
     mix: 77,
     argola: 67,
-    pequeno: 174,
+    pequeno: 197,
     argolinha: 76,
     basic: 141,
     tornozeleira: 11,
-    anel: 43,
+    anel: 57,
     pulseira: 109,
     grande: 42,
     cartela: 68,
