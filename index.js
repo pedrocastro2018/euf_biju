@@ -1678,6 +1678,34 @@ function confirmar() {
         name: "Brincos Argolas - BA0100 (Banho Flash)",
         price: "R$ 9,80"
       },
+      {
+        name: "Brincos Argolas - BA0121 (Banho Flash)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Argolas - BA0120 (Banho Flash)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Argolas - BA0118 (Banho Flash)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Argolas - BA0119 (Banho Flash)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Argolas - BA0116 (Banho Flash)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Argolas - BA0115 (Banho Flash)",
+        price: "R$ 11,80"
+      },
+      {
+       name: "Brincos Argolas - BA0117 (Banho Flash)",
+       price: "R$ 11,80"
+      },
     ],
     tornozeleira: [
       {
@@ -2514,6 +2542,38 @@ function confirmar() {
         name: "Brincos Pequenos - BP0382 (Bijuteria)",
         price: "R$ 11,80"
       },
+      {
+        name: "Brincos Pequenos - BP0379 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0372 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0362 (Bijuteria)",
+        price: "R$ 11,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0364 (Bijuteria)",
+        price: "R$ 11,80"
+      },    
+      {
+        name: "Brincos Pequenos - BP0363 (Bijuteria)",
+        price: "R$ 11,80"
+      }, 
+      {
+        name: "Brincos Pequenos - BP0362 (Bijuteria)",
+        price: "R$ 11,80"
+      },          
+      {
+         name: "Brincos Pequenos - BP0361 (Bijuteria)",
+         price: "R$ 11,80"
+      }, 
+      {
+        name: "Brincos Pequenos - BP0473 (Banho Flash)",
+        price: "R$ 17,80"
+     }, 
 
     ],
     argolinha: [
@@ -3997,6 +4057,118 @@ function confirmar() {
         name: "Pulseiras - PU0001 (Folheado)",
         price: "R$ 21,80"
       },
+      {
+        name: "Pulseiras - PU0157 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+         name: "Pulseiras - PU0158 (Folheado)",
+         price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0164 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0174 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0173 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0204 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0199 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0201 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0196 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0197 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0200 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0195 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0198 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0187 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0185 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0189 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0194 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0178 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0183 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0190 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0191 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0184 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0067 (Folheado Prata 925)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0182 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0177 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0176 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0175 (Folheado)",
+        price: "R$ 21,80"
+      },
+      {
+        name: "Pulseiras - PU0206 (Folheado)",
+        price: "R$ 21,80"
+      },
     ],
     grande: [
       {
@@ -4228,8 +4400,48 @@ function confirmar() {
         price: "R$ 11,80"
       },
       {
-        name: "BRINCOS - BG01 (Bijuteria)",
-        price: "R$ 11,80"
+        name: "BRINCOS - BG0140 (Banho Flash)",
+        price: "R$ 17,80"
+      },
+      {
+        name: "BRINCOS - BG0137 (Banho Flash)",
+        price: "R$ 17,80"
+      },
+      {
+        name: "BRINCOS - BG0136 (Banho Flash)",
+        price: "R$ 17,80"
+      },
+      {
+        name: "BRINCOS - BG0140 (Banho Flash)",
+        price: "R$ 17,80"
+      },
+      {
+        name: "BRINCOS - BG0141 (Banho Flash)",
+        price: "R$ 17,80"
+      },
+      {
+        name: "BRINCOS - BG0142 (Banho Flash)",
+        price: "R$ 17,80"
+      },
+      {
+        name: "BRINCOS - BG0143 (Banho Flash)",
+        price: "R$ 17,80"
+      },
+      {
+        name: "BRINCOS - BG0144 (Banho Flash)",
+        price: "R$ 17,80"
+      },
+      {
+        name: "BRINCOS - BG0147 (Banho Flash)",
+        price: "R$ 17,80"
+      },
+      {
+        name: "BRINCOS - BG0145 (Banho Flash)",
+        price: "R$ 17,80"
+      },
+      {
+        name: "BRINCOS - BG0148 (Banho Flash)",
+        price: "R$ 17,80"
       },
     ],
     cartela: [
@@ -4771,7 +4983,15 @@ function confirmar() {
         name: "Piercing Falso - PF0006 (Banho Flash)",
         price: "R$ 15,80" 
       },
-    ],
+      {
+         name: "Piercing Falso - PF0189 (Banho Flash)",
+         price: "R$ 15,80" 
+      },
+      {
+        name: "Piercing Falso - PF0188 (Banho Flash)",
+        price: "R$ 15,80" 
+      },
+ ],
     earcuff:[
       {
           name: "BRINCOS EARCUFF - BE0128 (Banho Flash)",
@@ -6221,16 +6441,16 @@ function confirmar() {
     longo: 89,
     curto: 115,
     mix: 77,
-    argola: 67,
-    pequeno: 197,
+    argola: 74,
+    pequeno: 205,
     argolinha: 76,
     basic: 141,
     tornozeleira: 11,
     anel: 57,
-    pulseira: 109,
-    grande: 42,
+    pulseira: 227,
+    grande: 68,
     cartela: 68,
-    piercing: 66,
+    piercing: 73,
     earcuff: 75,
     conjunto: 42,
     cabelo: 26,
