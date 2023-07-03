@@ -33,7 +33,7 @@ function confirmar() {
     colar: [
       {
         name: "Choke de Colar Choker - CK0284 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       }, 
       {
         name:  "ESGOTADO",
@@ -41,51 +41,51 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0286 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0285 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0284 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0283 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0282 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0279 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0277 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0276 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0275 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0273 (Folheado) ESGOTADO",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "Colar Choker - CK0272 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0270 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "ESGOTADO",
@@ -93,7 +93,7 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0268 (Folheado)",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "ESGOTADO",
@@ -101,11 +101,11 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0264 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0261 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "ESGOTADO",
@@ -113,7 +113,7 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0259 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "ESGOTADO",
@@ -121,91 +121,91 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0254 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0253 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0252 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0251 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0250 (Folheado) - ESGOTADO",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "Colar Choker - CK0249 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0289 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0245 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0243 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0241 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0239 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0238 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0237 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0236 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0234 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0233 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0232 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0231 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0230 (Folheado)",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "Colar Choker - CK0227 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0226 (Folheado)",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "Colar Choker - CK0225 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "ESGOTADO",
@@ -213,47 +213,47 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0221 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0219 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0218 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0217 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0216 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0210 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0209 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0208 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0207 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0206 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0203 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "ESGOTADO",
@@ -261,47 +261,47 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0098 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0097 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0095 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0090 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0089 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0088 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0070 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0060 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0058 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0057 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0044 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "ESGOTADO",
@@ -309,91 +309,91 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0215 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0053 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0051 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0044 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0043 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0027 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0026 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0025 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0024 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0020 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0018 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0017 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0016 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0015 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0014 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0013 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0011 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0010 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0008 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0007 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0006 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0005 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "ESGOTADO",
@@ -401,232 +401,232 @@ function confirmar() {
       },
       {
         name: "Colar Choker - CK0002 (Bijuteria)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0215 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Choker - CK0246 (Folheado)",
-        price: "29,80"
+        price: "32,80"
       },
       {
         name: "Colar Choker - CK0054 (Folheado)",
-        price: "R$ 29,80"
+        price: "R$ 32,80"
       },
       {
         name: "Colar Choker - CK0287CRIS (Folheado)",
-        price: "R$ 51,60"
+        price: "R$ 54,60"
       },
       {
         name: "Colar Choker - CK0287COL (Folheado)",
-        price: "R$ 51,60"
+        price: "R$ 54,60"
       },
       {
         name: "Colar Choker - CK0290 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 36,80"
       },
       {
         name: "Colar Choker - CK0292 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 36,80"
       },
       {
         name: "Colar Choker - CK0288 (Folheado)",
-        price: "R$ 33,80"
+        price: "R$ 36,80"
       },
       {
        name: "Colar Choker - CK0294 (Folheado)",
-       price: "R$ 29,80"
+       price: "R$ 32,80"
       },
       {
        name: "Colar Choker - CK0296 (Folheado)",
-       price: "R$ 29,80"
+       price: "R$ 32,80"
       },
       {
        name: "Colar Choker - CK0295 (Folheado)",
-       price: "R$ 29,80"
+       price: "R$ 32,80"
       },
       {
        name: "Colar Choker - CK0297 (Folheado)",
-       price: "R$ 29,80"
+       price: "R$ 32,80"
       },        
       {
        name: "Colar Choker - CK0296 (Folheado)",
-       price: "R$ 29,80" 
+       price: "R$ 32,80" 
       },    
       {
        name: "Colar Choker - CK0291 (Folheado)",
-       price: "R$ 29,80" 
+       price: "R$ 32,80" 
       },  
       {
         name: "Colar Choker - CK0306 (Folheado)",
-        price: "R$ 29,80" 
+        price: "R$ 32,80" 
       },    
       {
        name: "Colar Choker - CK0300 (Folheado)",
-       price: "R$ 29,80" 
+       price: "R$ 32,80" 
       },   
       {
        name: "Colar Choker - CK0310 (Folheado)",
-       price: "R$ 29,80" 
+       price: "R$ 32,80" 
      },     
      {
        name: "Colar Choker - CK0302 (Folheado)",
-       price: "R$ 29,80" 
+       price: "R$ 32,80" 
      }, 
      {
       name: "Colar Choker - CK0304 (Folheado)",
-      price: "R$ 29,80" 
-     }, 
+      price: "R$ 32,80" 
+     },
      {
       name: "Colar Choker - CK0299 (Folheado)",
-      price: "R$ 29,80" 
+      price: "R$ 32,80" 
      }, 
      {
       name: "Colar Choker - CK0303 (Folheado)",
-      price: "R$ 29,80" 
+      price: "R$ 32,80" 
      },      
      {
        name: "Colar Choker - CK0309 (Folheado)",
-       price: "R$ 29,80" 
+       price: "R$ 32,80" 
      }, 
      {
       name: "Colar Choker - CK0301 (Folheado)",
-      price: "R$ 29,80" 
+      price: "R$ 32,80" 
      },  
      {
       name: "Colar Choker - CK0308 (Folheado)",
-      price: "R$ 29,80" 
+      price: "R$ 32,80" 
      },         
      {
       name: "Colar Choker - CK0298 (Folheado)",
-      price: "R$ 37,80" 
+      price: "R$ 32,80" 
      },                                                                                                                                                                                                                                                                      
     ],
     longo: [
       {
         name: "Colar Longo - CL0045 (Folheado)",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "Colar Longo - CL0043 (Folheado)",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "Colar Longo - CL0041 (Folheado)",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "Colar Longo - CL0039 (Folheado)",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "Colar Longo - CL0037 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0036 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0034 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0033 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0032 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0027 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0022 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0014 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0012 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0011 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0010 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0008 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0007 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0004 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Longo - CL0002 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       
     ],
     curto: [
       {
         name: "Colar Escapulário -CC0745 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Escapulário -CC0744 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Escapulário -CC0743 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0742 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0740 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0739 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0738 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0736 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0735 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0733 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0732 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "ESGOTADO",
@@ -634,71 +634,71 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0729 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0728 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0726 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0724 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0723 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0722 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0702 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0719 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0716 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0711 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0710 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0706 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0705 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0704 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0702 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0701 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0700 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "ESGOTADO",
@@ -706,43 +706,43 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0697 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0695 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0693 (Folheado) ESGOTADO",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0692 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0689 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0688 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0687 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0685 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0684 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0683 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "ESGOTADO",
@@ -750,301 +750,301 @@ function confirmar() {
       },
       {
         name: "Colar Curto -CC0682 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0677 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0676 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0675 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0674 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0673 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0669 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0668 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0667 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0666 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0665 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0662 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0659 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0658 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0656 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0653 (Folheado)",
-        price: "R$ 33,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0652 (Folheado)",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "Colar Curto -CC0651 (Folheado)",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "Letras CC0101 (Somente as letras)",
-        price: "R$ 15,80",
+        price: "R$ 18,80",
       },
       {
         name: "Colar de Letras -CC0100 (Folheado)",
-        price: "R$ 33,80",
+        price: "R$ 36,80",
       },
       {
         name: "Colar Curto -CC0650 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0647 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0646 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0645 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0643 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0641 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0640 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0639 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0636 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0634 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0633 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0632 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0631 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0628 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0627 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0626 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0625 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0624 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0623 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0622 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0621 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0619 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0618 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0616 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0610 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0608 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0607 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0605 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0604 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0603 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0600 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0001 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       
       {
         name: "Colar Curto -CC0601 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       
       {
         name: "Colar Curto -CC0664 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0770 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0776 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0771 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0780 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0760 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0766 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0773 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0758 (Folheado) ESGOTADO",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0759 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0773 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0769 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
       name: "Colar Curto -CC0764 (Folheado)",
-      price: "R$ 29,80",
+      price: "R$ 32,80",
       }, 
       {
         name: "Colar Curto -CC0774 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0763 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0779 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },   
       {
         name: "Colar Escapulário -CC0786 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
        name: "Colar Curto -CC0787 (Folheado)",
-      price: "R$ 29,80",
+      price: "R$ 32,80",
       },
       {
        name: "Colar Curto -CC0788 (Folheado)",
-       price: "R$ 29,80",
+       price: "R$ 32,80",
       },
       {
         name: "Colar Curto -CC0790 (Folheado)",
-        price: "R$ 29,80",
+        price: "R$ 32,80",
       },
       {
        name: "Colar Curto -CC0789 (Folheado)",
-       price: "R$ 29,80",
+       price: "R$ 32,80",
       },
     ],     
     mix: [
@@ -3627,27 +3627,27 @@ function confirmar() {
     pulseira: [
       {
         name: "Pulseiras - PU0081 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0153 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0148 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0147 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0146 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0145 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "ESGOTADO",
@@ -3655,87 +3655,87 @@ function confirmar() {
       },
       {
         name: "Pulseiras - PU0142 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0141 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0140 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0139 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0138 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0137 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0136 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0135 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0133 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0132 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0131 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0129 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0128 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0127 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0126 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0125 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0124 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0123 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0120 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0118 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0117 (Bijuteria)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "ESGOTADO",
@@ -3743,23 +3743,23 @@ function confirmar() {
       },
       {
         name: "Pulseiras - PU0115 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0113 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0109 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0108 (Bijuteria)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0105 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "ESGOTADO",
@@ -3767,27 +3767,27 @@ function confirmar() {
       },
       {
         name: "Pulseiras - PU0103 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0102 (Folheado)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0101 (Folheado)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0100 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0099 (Folheado)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0098 (Folheado) ESGOTADO",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "ESGOTADO",
@@ -3795,11 +3795,11 @@ function confirmar() {
       },
       {
         name: "Pulseiras - PU0096 (Folheado)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0095 (Bijuteria)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "ESGOTADO",
@@ -3807,31 +3807,31 @@ function confirmar() {
       },
       {
         name: "Pulseiras - PU0093 (Folheado)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0092 (Folheado)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0091 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0090 (Folheado)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0089 (Folheado)",
-        price: "R$ 11,80"
+        price: "R$ 14,80"
       },
       {
         name: "Pulseiras - PU0085 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0084 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "ESGOTADO",
@@ -3839,7 +3839,7 @@ function confirmar() {
       },
       {
         name: "Pulseiras - PU0082 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "ESGOTADO",
@@ -3847,127 +3847,127 @@ function confirmar() {
       },
       {
         name: "Pulseiras - PU0079 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0077 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0076 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0075 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0074 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0073 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0072 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0069 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0068 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0067 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0065 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0064 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0063 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0062 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0059 (Folheado) ESGOTADO",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0057 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0053 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0051 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0050 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0049 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0048 (Bijuteria)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0045 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0044 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0043 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0040 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0037 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0036 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0034 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0033 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0032 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0031 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "ESGOTADO",
@@ -3979,35 +3979,35 @@ function confirmar() {
       },
       {
         name: "Pulseiras - PU0027 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0025 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0024 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0023 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0022 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0021 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0019 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0018 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "ESGOTADO",
@@ -4015,159 +4015,159 @@ function confirmar() {
       },
       {
         name: "Pulseiras - PU0014 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0013 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0012 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0011 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0010 (Folheado) ESGOTADO",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0009 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0008 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0006 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0005 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0002 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0001 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0157 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
          name: "Pulseiras - PU0158 (Folheado)",
-         price: "R$ 21,80"
+         price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0164 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0174 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0173 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0204 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0199 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0201 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0196 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0197 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0200 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0195 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0198 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0187 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0185 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0189 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0194 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0178 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0183 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0190 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0191 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0184 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0067 (Folheado Prata 925)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0182 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0177 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0176 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0175 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
       {
         name: "Pulseiras - PU0206 (Folheado)",
-        price: "R$ 21,80"
+        price: "R$ 24,80"
       },
     ],
     grande: [
