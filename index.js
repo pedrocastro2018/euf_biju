@@ -581,7 +581,27 @@ function confirmar() {
         name: "Colar Longo - CL0002 (Folheado)",
         price: "R$ 32,80",
       },
-      
+      {
+        name: "Colar Longo - CL0050 (Folheado)",
+        price: "R$ 32,80",
+      },
+      {
+        name: "Colar Longo - CL0046 (Folheado)",
+        price: "R$ 32,80",
+      },
+      {
+        name: "Colar Longo - CL0047 (Folheado)",
+        price: "R$ 32,80",
+      },
+      {
+        name: "Colar Longo - CL0048 (Folheado)",
+        price: "R$ 32,80",
+      },
+      {
+        name: "Colar Longo - CL0049 (Folheado)",
+        price: "R$ 32,80",
+      },
+                     
     ],
     curto: [
       {
@@ -2573,8 +2593,15 @@ function confirmar() {
       {
         name: "Brincos Pequenos - BP0473 (Banho Flash)",
         price: "R$ 17,80"
-     }, 
-
+      },
+      {
+        name: "Brincos Pequenos - BP0479 (Banho Flash)",
+        price: "R$ 17,80"
+      },
+      {
+        name: "Brincos Pequenos - BP0482 (Banho Flash)",
+        price: "R$ 17,80"
+      },   
     ],
     argolinha: [
       {
@@ -4169,6 +4196,54 @@ function confirmar() {
         name: "Pulseiras - PU0206 (Folheado)",
         price: "R$ 24,80"
       },
+      {
+        name: "Pulseiras - PU0209 (Folheado)",
+        price: "R$ 41,80"
+      },
+      {
+        name: "Pulseiras - PU0208 (Folheado)",
+        price: "R$ 41,80"
+      },
+      {
+        name: "Pulseiras - PU0207 (Folheado)",
+        price: "R$ 41,80"
+      },
+      {
+        name: "Pulseiras - PU0229 (Folheado Prata 925)",
+        price: "R$ 24,80"
+      },
+      {
+        name: "Pulseiras - PU0212 (Folheado Prata 925)",
+        price: "R$ 24,80"
+      },
+      {
+        name: "Pulseiras - PU0223 (Folheado Prata 925)",
+        price: "R$ 24,80"
+      },
+      {
+        name: "Pulseiras - PU0231 (Folheado Prata 925)",
+        price: "R$ 24,80"
+      },
+      {
+        name: "Pulseiras - PU0220 (Folheado)",
+        price: "R$ 24,80"
+      },
+      {
+        name: "Pulseiras - PU0221 (Folheado)",
+        price: "R$ 24,80"
+      },
+      {
+        name: "Pulseiras - PU0214 (Folheado)",
+        price: "R$ 24,80"
+      },
+      {
+        name: "Pulseiras - PU0213 (Folheado)",
+        price: "R$ 24,80"
+      },
+      {
+        name: "Pulseiras - PU0219 (Folheado)",
+        price: "R$ 24,80"
+      },              
     ],
     grande: [
       {
@@ -6442,7 +6517,7 @@ function confirmar() {
     curto: 115,
     mix: 77,
     argola: 74,
-    pequeno: 205,
+    pequeno: 207,
     argolinha: 76,
     basic: 141,
     tornozeleira: 11,
