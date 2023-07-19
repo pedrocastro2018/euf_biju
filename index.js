@@ -502,7 +502,34 @@ function confirmar() {
      {
       name: "Colar Choker - CK0298 (Folheado)",
       price: "R$ 32,80" 
-     },                                                                                                                                                                                                                                                                      
+     },
+     {
+      name: "Colar Choker - CK0333 (Folheado)",
+      price: "R$ 32,80" 
+     },
+     {
+      name: "Colar Choker - CK0313 (Folheado)",
+      price: "R$ 32,80" 
+     },
+     {
+      name: "Colar Choker - CK0314 (Folheado)",
+      price: "R$ 32,80" 
+     }, 
+     {
+      name: "Colar Choker - CK0321 (Folheado)",
+      price: "R$ 32,80" 
+     },
+     {
+      name: "Colar Choker - CK0320 (Folheado)",
+      price: "R$ 32,80" 
+     },
+     {
+      name: "Colar Choker - CK0319 (Folheado)",
+      price: "R$ 32,80" 
+     },
+
+      
+      
     ],
     longo: [
       {
@@ -1066,6 +1093,10 @@ function confirmar() {
        name: "Colar Curto -CC0789 (Folheado)",
        price: "R$ 32,80",
       },
+      {
+        name: "Colar Curto -CC0800 (Folheado Prata 925)",
+        price: "R$ 32,80",
+       },
     ],     
     mix: [
       {
@@ -6512,9 +6543,9 @@ function confirmar() {
   };
 
   const limits = {
-    colar: 118,
+    colar: 124,
     longo: 89,
-    curto: 115,
+    curto: 118,
     mix: 77,
     argola: 74,
     pequeno: 207,
